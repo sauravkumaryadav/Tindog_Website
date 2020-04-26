@@ -1,6 +1,6 @@
 # Tindog-Website
 
-This website is made by using **bootsrap 4** and **advanced css&html**. It is mainly a front-end website i.e at present no back-end work is there.This website is made responsive by using grid layout system so on any screen window size the website organises its structure or layout according to it.Important components of bootstrap4 are used like buttons,cards,
+This website is made by using **bootsrap 4** and **advanced css&html**. It is mainly a front-end *Static* website i.e at present no back-end work is there.This website is made responsive by using grid layout system so on any screen window size the website organises its structure or layout according to it.Important components of bootstrap4 are used like buttons,cards,
 carousel,containers,jumbotron,Navbar.
 
 # Running The Project
@@ -32,5 +32,10 @@ carousel,containers,jumbotron,Navbar.
 
 ---
 
+# My website Link:
+
+[Tindog-Website](https://sauravkumaryadav.github.io/Tindog_Website/ "Tindog")
+
+---
 # Thank you
 
