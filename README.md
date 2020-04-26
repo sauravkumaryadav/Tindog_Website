@@ -30,3 +30,7 @@ carousel,containers,jumbotron,Navbar.
     * Navbar
 * Font Awesome
 
+---
+
+# Thank you
+
